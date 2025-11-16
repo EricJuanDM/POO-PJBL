@@ -11,7 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
         
-        System.out.println("=== 🚀 INICIANDO SISTEMA DE GESTÃO DA BIBLIOTECA ===");
+        System.out.println("=== INICIANDO SISTEMA DE GESTÃO DA BIBLIOTECA ===");
         
         biblioteca.carregarDados();
         System.out.println("-------------------------------------------------");
@@ -58,7 +58,7 @@ public class Main {
 
         System.out.println("\n--- Salvando todos os dados... ---");
         biblioteca.salvarDados();
-        System.out.println("=== 🚀 SISTEMA FINALIZADO ===\n");
+        System.out.println("=== SISTEMA FINALIZADO ===\n");
         scanner.close();
     }
 
